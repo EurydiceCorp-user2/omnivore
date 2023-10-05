@@ -2758,9 +2758,9 @@
     uuid "^8.0.0"
 
 "@google-cloud/tasks@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@google-cloud/tasks/-/tasks-4.0.0.tgz#e5357b97a4f4ce214e4dffb5f42b1b58c7d64175"
-  integrity sha512-/p+40gG5XFOTgP+14ejhdkguuIGY/jhpo+huZIGsWkeZWG3kjmQNzrNE8Oa1PpAHudv3AyfwmPWSmbdhnNIbdQ==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/@google-cloud/tasks/-/tasks-4.0.1.tgz#b1053006a9f5cbedd94d2e2425e2a8c7af1746a1"
+  integrity sha512-cluHSN52WgaNoDPVguxCeXZq4rTBHqJntXFB9aI9zG8n8MJukf6V0H7yoAXpKXQxyeXv4LRy108kAgLPgXP3yA==
   dependencies:
     google-gax "^4.0.3"
 
