@@ -44,7 +44,7 @@
     "axios": "^1.2.2",
     "dompurify": "^2.4.3",
     "fs-extra": "^11.1.0",
-    "glob": "^8.1.0",
+    "glob": "^10.3.10",
     "jsonwebtoken": "^8.5.1",
     "linkedom": "^0.14.21",
     "nodemon": "^2.0.15",
